@@ -1,1 +1,1 @@
-test
+Expect announcements to be displayed here.
